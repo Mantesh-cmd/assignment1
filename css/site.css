@@ -35,12 +35,12 @@
         }
 
         .description {
-            font-size: 34px;
-            line-height: 40px;
+            font-size: 44px;
+            line-height:640px;
         }
 
         .next-steps-container {
-            padding-top: 50px;
+            padding-top: 80px;
         }
 
         .next-steps-header {
